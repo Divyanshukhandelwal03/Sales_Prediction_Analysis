@@ -1,6 +1,5 @@
-# Black Friday Sales Prediction Analysis - Regression
+# Sales Prediction Analysis - Regression
 
-**Complete Video Tutorial:** https://youtu.be/ID8Lz5vR3qE
 
 # Dataset Information
 
@@ -24,7 +23,6 @@ This dataset comprises of sales transactions captured at a retail store. It’s 
 |     10    |     Product_Category_3     |  float64  |       Category of product       | True   |
 |     11    |          Purchase          |   int64   |         Purchase amount         | False  |
 
-**Download link:** https://www.kaggle.com/kkartik93/black-friday-sales-prediction
 
 # Libraries
 
@@ -40,10 +38,4 @@ This dataset comprises of sales transactions captured at a retail store. It’s 
 <li>Random Forest
 <li>Extra Tress
   
-# Future Work
-
-<li>Hyperparameter Tuning
-<li>Different Models
-<li>Creation of new attributes
-<li>Normalization
 # Sales_Prediction_Analysis
